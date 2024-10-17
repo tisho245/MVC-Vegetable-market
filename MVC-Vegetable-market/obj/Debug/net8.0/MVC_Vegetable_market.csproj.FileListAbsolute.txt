@@ -1,0 +1,14 @@
+C:\Users\Tihomir Petkov\source\repos\MVC-Vegetable-market\MVC-Vegetable-market\obj\Debug\net8.0\MVC_Vegetable_market.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tihomir Petkov\source\repos\MVC-Vegetable-market\MVC-Vegetable-market\obj\Debug\net8.0\MVC_Vegetable_market.AssemblyInfoInputs.cache
+C:\Users\Tihomir Petkov\source\repos\MVC-Vegetable-market\MVC-Vegetable-market\obj\Debug\net8.0\MVC_Vegetable_market.AssemblyInfo.cs
+C:\Users\Tihomir Petkov\source\repos\MVC-Vegetable-market\MVC-Vegetable-market\obj\Debug\net8.0\MVC_Vegetable_market.csproj.CoreCompileInputs.cache
+C:\Users\Tihomir Petkov\source\repos\MVC-Vegetable-market\MVC-Vegetable-market\bin\Debug\net8.0\MVC_Vegetable_market.exe
+C:\Users\Tihomir Petkov\source\repos\MVC-Vegetable-market\MVC-Vegetable-market\bin\Debug\net8.0\MVC_Vegetable_market.deps.json
+C:\Users\Tihomir Petkov\source\repos\MVC-Vegetable-market\MVC-Vegetable-market\bin\Debug\net8.0\MVC_Vegetable_market.runtimeconfig.json
+C:\Users\Tihomir Petkov\source\repos\MVC-Vegetable-market\MVC-Vegetable-market\bin\Debug\net8.0\MVC_Vegetable_market.dll
+C:\Users\Tihomir Petkov\source\repos\MVC-Vegetable-market\MVC-Vegetable-market\bin\Debug\net8.0\MVC_Vegetable_market.pdb
+C:\Users\Tihomir Petkov\source\repos\MVC-Vegetable-market\MVC-Vegetable-market\obj\Debug\net8.0\MVC_Vegetable_market.dll
+C:\Users\Tihomir Petkov\source\repos\MVC-Vegetable-market\MVC-Vegetable-market\obj\Debug\net8.0\refint\MVC_Vegetable_market.dll
+C:\Users\Tihomir Petkov\source\repos\MVC-Vegetable-market\MVC-Vegetable-market\obj\Debug\net8.0\MVC_Vegetable_market.pdb
+C:\Users\Tihomir Petkov\source\repos\MVC-Vegetable-market\MVC-Vegetable-market\obj\Debug\net8.0\MVC_Vegetable_market.genruntimeconfig.cache
+C:\Users\Tihomir Petkov\source\repos\MVC-Vegetable-market\MVC-Vegetable-market\obj\Debug\net8.0\ref\MVC_Vegetable_market.dll

@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tihomir Petkov\\source\\repos\\MVC-Vegetable-market\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63C2B905-4283-47A8-BA72-14B81249FE6E}|MVC-Vegetable-market\\MVC_Vegetable_market.csproj|c:\\users\\tihomir petkov\\source\\repos\\mvc-vegetable-market\\mvc-vegetable-market\\controllers\\marketactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C2B905-4283-47A8-BA72-14B81249FE6E}|MVC-Vegetable-market\\MVC_Vegetable_market.csproj|solutionrelative:mvc-vegetable-market\\controllers\\marketactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C2B905-4283-47A8-BA72-14B81249FE6E}|MVC-Vegetable-market\\MVC_Vegetable_market.csproj|c:\\users\\tihomir petkov\\source\\repos\\mvc-vegetable-market\\mvc-vegetable-market\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C2B905-4283-47A8-BA72-14B81249FE6E}|MVC-Vegetable-market\\MVC_Vegetable_market.csproj|solutionrelative:mvc-vegetable-market\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C2B905-4283-47A8-BA72-14B81249FE6E}|MVC-Vegetable-market\\MVC_Vegetable_market.csproj|c:\\users\\tihomir petkov\\source\\repos\\mvc-vegetable-market\\mvc-vegetable-market\\views\\display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C2B905-4283-47A8-BA72-14B81249FE6E}|MVC-Vegetable-market\\MVC_Vegetable_market.csproj|solutionrelative:mvc-vegetable-market\\views\\display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C2B905-4283-47A8-BA72-14B81249FE6E}|MVC-Vegetable-market\\MVC_Vegetable_market.csproj|c:\\users\\tihomir petkov\\source\\repos\\mvc-vegetable-market\\mvc-vegetable-market\\models\\market.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C2B905-4283-47A8-BA72-14B81249FE6E}|MVC-Vegetable-market\\MVC_Vegetable_market.csproj|solutionrelative:mvc-vegetable-market\\models\\market.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C2B905-4283-47A8-BA72-14B81249FE6E}|MVC-Vegetable-market\\MVC_Vegetable_market.csproj|c:\\users\\tihomir petkov\\source\\repos\\mvc-vegetable-market\\mvc-vegetable-market\\mvc_vegetable_market.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{63C2B905-4283-47A8-BA72-14B81249FE6E}|MVC-Vegetable-market\\MVC_Vegetable_market.csproj|solutionrelative:mvc-vegetable-market\\mvc_vegetable_market.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MarketActionController.cs",
+              "DocumentMoniker": "C:\\Users\\Tihomir Petkov\\source\\repos\\MVC-Vegetable-market\\MVC-Vegetable-market\\Controllers\\MarketActionController.cs",
+              "RelativeDocumentMoniker": "MVC-Vegetable-market\\Controllers\\MarketActionController.cs",
+              "ToolTip": "C:\\Users\\Tihomir Petkov\\source\\repos\\MVC-Vegetable-market\\MVC-Vegetable-market\\Controllers\\MarketActionController.cs",
+              "RelativeToolTip": "MVC-Vegetable-market\\Controllers\\MarketActionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:04:43.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Display.cs",
+              "DocumentMoniker": "C:\\Users\\Tihomir Petkov\\source\\repos\\MVC-Vegetable-market\\MVC-Vegetable-market\\Views\\Display.cs",
+              "RelativeDocumentMoniker": "MVC-Vegetable-market\\Views\\Display.cs",
+              "ToolTip": "C:\\Users\\Tihomir Petkov\\source\\repos\\MVC-Vegetable-market\\MVC-Vegetable-market\\Views\\Display.cs",
+              "RelativeToolTip": "MVC-Vegetable-market\\Views\\Display.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:03:54.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Market.cs",
+              "DocumentMoniker": "C:\\Users\\Tihomir Petkov\\source\\repos\\MVC-Vegetable-market\\MVC-Vegetable-market\\Models\\Market.cs",
+              "RelativeDocumentMoniker": "MVC-Vegetable-market\\Models\\Market.cs",
+              "ToolTip": "C:\\Users\\Tihomir Petkov\\source\\repos\\MVC-Vegetable-market\\MVC-Vegetable-market\\Models\\Market.cs",
+              "RelativeToolTip": "MVC-Vegetable-market\\Models\\Market.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:03:09.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MVC_Vegetable_market.csproj",
+              "DocumentMoniker": "C:\\Users\\Tihomir Petkov\\source\\repos\\MVC-Vegetable-market\\MVC-Vegetable-market\\MVC_Vegetable_market.csproj",
+              "RelativeDocumentMoniker": "MVC-Vegetable-market\\MVC_Vegetable_market.csproj",
+              "ToolTip": "C:\\Users\\Tihomir Petkov\\source\\repos\\MVC-Vegetable-market\\MVC-Vegetable-market\\MVC_Vegetable_market.csproj",
+              "RelativeToolTip": "MVC-Vegetable-market\\MVC_Vegetable_market.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-17T07:01:27.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tihomir Petkov\\source\\repos\\MVC-Vegetable-market\\MVC-Vegetable-market\\Program.cs",
+              "RelativeDocumentMoniker": "MVC-Vegetable-market\\Program.cs",
+              "ToolTip": "C:\\Users\\Tihomir Petkov\\source\\repos\\MVC-Vegetable-market\\MVC-Vegetable-market\\Program.cs",
+              "RelativeToolTip": "MVC-Vegetable-market\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:57:14.744Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
